@@ -1,4 +1,4 @@
-# PROSPER LOAN DATA EXPLORATION
+# PROSPER LOAN DATA EXPLORATION.
 ## by (TIJANI MOHAMMED)
 
 
@@ -21,7 +21,7 @@ CreditGrading is ordered with the order from highest to lowest being : AA, A, B,
 Prosper Score is also ordered from 1 to 10 with 10 being highest.
 
 
-## Summary of Findings
+##  Summary of Findings
 
 Borrower Rate and Lender Yield are highly correlated.
 
